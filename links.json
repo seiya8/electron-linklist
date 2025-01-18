@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Other",
+    "links": [
+      {
+        "name": "Map",
+        "url": "https://www.google.com/maps"
+      }
+    ]
+  },
+  {
+    "category": "Shopping",
+    "links": [
+      {
+        "name": "Apple",
+        "url": "https://www.apple.com"
+      },
+      {
+        "name": "Amazon",
+        "url": "https://www.amazon.com"
+      }
+    ]
+  },
+  {
+    "category": "Work",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com"
+      },
+      {
+        "name": "てすと",
+        "url": "tst"
+      },
+      {
+        "name": "Sample text file",
+        "url": "file:///Users/sasaokaseiya/Desktop/sample.txt"
+      },
+      {
+        "name": "てすと2",
+        "url": "https://test2"
+      },
+      {
+        "name": "Google",
+        "url": "https://google.com"
+      }
+    ]
+  },
+  {
+    "category": "Social Media",
+    "links": [
+      {
+        "name": "X",
+        "url": "https://x.com"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://youtube.com"
+      }
+    ]
+  }
+]
